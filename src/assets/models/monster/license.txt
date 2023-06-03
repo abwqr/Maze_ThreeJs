@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vurdalak
+* source:	https://sketchfab.com/3d-models/vurdalak-fed083e2a9ef4e8db3f0af8aa1a2948e
+* author:	sanyaork (https://sketchfab.com/sanyaork)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vurdalak" (https://sketchfab.com/3d-models/vurdalak-fed083e2a9ef4e8db3f0af8aa1a2948e) by sanyaork (https://sketchfab.com/sanyaork) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
